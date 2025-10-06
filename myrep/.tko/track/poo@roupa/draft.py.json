@@ -1,0 +1,14 @@
+{
+    "patches": [
+        {
+            "label": "2025-10-06_19-56-49",
+            "content": "@@ -393,51 +393,22 @@\n il: \n-Valor inv%C3%A1lido, tente PP, P, M, G, GG ou XG\n+tamanho errado\n %22)%0A \n",
+            "lines": "35"
+        },
+        {
+            "label": "2025-10-06_19-57-16",
+            "content": "class Roupa:\n    def __init__(self):\n        self.__tamanho: str = \"\"\n    \n    def getTamanho(self):\n        return self.__tamanho\n    \n    def setTamanho(self, tamanho: str):\n        if tamanho != \"PP\" \\\n            and tamanho != \"P\" \\\n            and tamanho != \"M\" \\\n            and tamanho != \"G\" \\\n            and tamanho != \"GG\" \\\n            and tamanho != \"XG\":\n            print(\"fail: Valor inv\u00e1lido, tente PP, P, M, G, GG ou XG\")\n            return\n        \n        self.__tamanho = tamanho\n\n    def __str__(self) -> str:\n        return f\"size: ({self.getTamanho()})\"\n\nroupa = Roupa()\n\nwhile True:\n    command = input()\n    print(\"$\" + command)\n    args = command.split()\n\n    if args[0] == \"end\":\n        break\n    elif args[0] == \"show\":\n        print(roupa)\n    elif args[0] == \"size\":\n        roupa.setTamanho(args[1])",
+            "lines": "35"
+        }
+    ]
+}
