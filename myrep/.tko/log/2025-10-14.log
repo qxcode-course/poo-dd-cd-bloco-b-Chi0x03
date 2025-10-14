@@ -1,0 +1,13 @@
+2025-10-14 18:40:25, MOVE, v:1, k:poo@relogio, mode:PICK
+2025-10-14 18:40:26, EXEC, v:1, k:poo@relogio, mode:FULL, rate:100
+2025-10-14 18:40:27, EXEC, v:1, k:poo@relogio, mode:FULL, rate:100
+2025-10-14 18:40:28, EXEC, v:1, k:poo@relogio, mode:FULL, rate:100
+2025-10-14 18:40:28, EXEC, v:1, k:poo@relogio, mode:FULL, rate:100
+2025-10-14 18:40:29, MOVE, v:1, k:poo@relogio, mode:BACK
+2025-10-14 18:40:35, SELF, v:1, k:poo@relogio, rate:100, iagen:apenas_para_melhorar_legibilidade_do_early_return, alone:10, study:20
+2025-10-14 18:40:54, SELF, v:1, k:poo@relogio, rate:100, iagen:apenas_para_melhorar_legibilidade_do_early_return, alone:10, study:20
+2025-10-14 18:41:12, MOVE, v:1, k:poo@chinela, mode:PICK
+2025-10-14 18:41:12, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:0
+2025-10-14 18:41:14, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:0
+2025-10-14 18:41:16, EXEC, v:1, k:poo@chinela, mode:FREE
+2025-10-14 18:41:41, MOVE, v:1, k:poo@chinela, mode:BACK
