@@ -195,10 +195,6 @@ while True:
     if bateria != None:
       print(f"Removido {bateria}")
 
-  elif args[0] == "carregador":
-    carregador = Carregador(int(args[1]))
-    print("carregador criado")
-
   elif args[0] == "set_charger":
     carregador = Carregador(int(args[1]))
 
