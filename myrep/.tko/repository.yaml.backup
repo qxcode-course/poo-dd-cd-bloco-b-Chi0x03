@@ -8,7 +8,7 @@ sources:
 - database: poo
   link: https://github.com/qxcodepoo/arcade/blob/master/Readme.md
   cache_path: /home/caio/Área de trabalho/poo-dd-cd-bloco-b-Chi0x03/myrep/.tko/cache/poo.md
-  cache_timestamp: '2025-10-19 13:43:10'
+  cache_timestamp: '2025-10-19 18:20:24'
   filters:
   - acesso
   - simples
@@ -23,6 +23,7 @@ tasks:
   poo@relogio: '{rate:100, iagen:apenas_para_melhorar_legibilidade_do_early_return,
     alone:10, study:20}'
   poo@notebook: '{rate:100, alone:10, study:62}'
+  poo@motoca: '{rate:100, alone:10, study:35}'
   poo@charger: '{rate:100, alone:10, study:40}'
 flags:
   quests: 0
@@ -31,4 +32,4 @@ flags:
   graph: 1
   xray: 0
 lang: py
-selected: poo@motouber
+selected: poo@motoca
