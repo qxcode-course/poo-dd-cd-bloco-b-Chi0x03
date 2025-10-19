@@ -24,6 +24,7 @@ tasks:
     alone:10, study:20}'
   poo@notebook: '{rate:100, alone:10, study:62}'
   poo@motoca: '{rate:100, alone:10, study:35}'
+  poo@grafite: '{rate:100, alone:10, study:30}'
   poo@charger: '{rate:100, alone:10, study:40}'
 flags:
   quests: 0
@@ -32,4 +33,4 @@ flags:
   graph: 1
   xray: 0
 lang: py
-selected: poo@motoca
+selected: poo@grafite
