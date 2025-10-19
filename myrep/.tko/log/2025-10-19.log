@@ -178,3 +178,29 @@
 2025-10-19 19:50:08, EXEC, v:1, k:poo@motouber, mode:FULL, rate:100, size:123
 2025-10-19 19:50:10, MOVE, v:1, k:poo@motouber, mode:BACK
 2025-10-19 19:50:17, SELF, v:1, k:poo@motouber, rate:100, alone:10, study:20
+2025-10-19 19:50:34, MOVE, v:1, k:poo@tamagotchi, mode:DOWN
+2025-10-19 19:57:09, MOVE, v:1, k:poo@tamagotchi, mode:PICK
+2025-10-19 19:57:09, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:0, size:99
+2025-10-19 19:59:04, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:0, size:108
+2025-10-19 19:59:19, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:0, size:108
+2025-10-19 19:59:48, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:0, size:108
+2025-10-19 20:00:16, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:12, size:110
+2025-10-19 20:00:36, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:12, size:112
+2025-10-19 20:00:54, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:12, size:112
+2025-10-19 20:02:16, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:25, size:112
+2025-10-19 20:03:25, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:25, size:114
+2025-10-19 20:03:38, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:25, size:113
+2025-10-19 20:07:35, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:0, size:118
+2025-10-19 20:07:43, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:25, size:117
+2025-10-19 20:08:19, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:25, size:118
+2025-10-19 20:08:59, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:25, size:119
+2025-10-19 20:09:51, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:37, size:122
+2025-10-19 20:11:03, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:50, size:133
+2025-10-19 20:11:47, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:62, size:138
+2025-10-19 20:12:56, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:62, size:141
+2025-10-19 20:13:04, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:62, size:141
+2025-10-19 20:14:15, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:62, size:143
+2025-10-19 20:14:58, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:75, size:143
+2025-10-19 20:15:47, EXEC, v:1, k:poo@tamagotchi, mode:FULL, rate:100, size:146
+2025-10-19 20:15:58, MOVE, v:1, k:poo@tamagotchi, mode:BACK
+2025-10-19 20:16:05, SELF, v:1, k:poo@tamagotchi, rate:100, alone:10, study:25

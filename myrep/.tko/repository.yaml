@@ -26,6 +26,7 @@ tasks:
   poo@motoca: '{rate:100, alone:10, study:35}'
   poo@grafite: '{rate:100, alone:10, study:30}'
   poo@motouber: '{rate:100, alone:10, study:20}'
+  poo@tamagotchi: '{rate:100, alone:10, study:25}'
   poo@charger: '{rate:100, alone:10, study:40}'
 flags:
   quests: 0
